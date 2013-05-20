@@ -1,4 +1,3 @@
-
 ### Using the API
 
 The example below is written with C#, using .NET 4.0.  
@@ -6,7 +5,7 @@ The example below is written with C#, using .NET 4.0.
 The API supports REST formatted requests, and can provide a response in JSON format, depending upon the content type specified in the request header.  
 
 * JSON Response = Content-Type:application/json
-* XML Response = Content-Type:text/json<
+* XML Response = Content-Type:text/json
 
 The examples are for JSON-formatted responses.  
 
